@@ -6,4 +6,4 @@ including the development of software for embedded systems and computer applicat
 
 Thanks for reading,
 
-- Sean
+Sean
