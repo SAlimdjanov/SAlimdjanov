@@ -1,3 +1,1 @@
-I am Sean Alimdjanov, a student at McMaster University in Hamilton, ON, Canada. I am majoring in
-Engineering Physics, specializing in Nano-device Engineering. I have a wide range of interests,
-including the development of software for embedded systems and computer applications.
+A recent university graduate with an admiration for physics and technology. Eager to assist with new and upcoming innovations, both hardware and software.
