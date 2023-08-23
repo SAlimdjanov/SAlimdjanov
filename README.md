@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **alimdjanov.ss@gmail.com**
 
-- ⚡ Fun fact **I'm a big Hockey and European Football Fan**
+- ⚡ Fun fact: **I'm a big Hockey and European Football Fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
