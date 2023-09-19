@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sean Alimdjanov</h1>
+<h1 align="center">Hi 👋, I'm Shonasir Alimdjanov</h1>
 <h3 align="center">A recent university graduate with an admiration for physics and technology. Eager to contribute to and assist in new and upcoming innovations.</h3>
 
 - 🌱 I’m currently learning **Data Science**
