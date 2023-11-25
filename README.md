@@ -1,5 +1,5 @@
 <h1 align="center">About Me</h1>
-<h3 align="left">A recent university graduate with an admiration for technology and physics.</h3>
+<h3 align="left">A recent university graduate with an immense admiration for technology and physics.</h3>
 
 - 🌱 I’m currently learning **Back-End Development**
 
