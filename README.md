@@ -2,10 +2,7 @@
 <h3 align="left">A recent university graduate with an immense admiration for technology and physics.</h3>
 
 - 🌱 I’m currently learning **Back-End Development**
-
 - 📫 How to reach me **alimdjanov.ss@gmail.com**
-
-- ⚡ Fun fact: **I'm a big Hockey and European Football Fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,5 +18,5 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=salimdjanov&show_icons=true&rank_icon=github&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salimdjanov&layout=compact&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salimdjanov&layout=compact&theme=transparent&exclude_repo=IBM-Professional-Data-Science-Certificate" />
 </a>
