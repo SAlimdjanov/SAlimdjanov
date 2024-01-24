@@ -14,9 +14,10 @@
 
 <h3 align="left">My Stats:</h3>
 
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=salimdjanov&show_icons=true&rank_icon=github&theme=transparent" />
-</a>
+</a>-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salimdjanov&layout=compact&theme=transparent&exclude_repo=IBM-Professional-Data-Science-Certificate" />
 </a>
