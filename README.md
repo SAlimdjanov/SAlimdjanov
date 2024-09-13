@@ -1,8 +1,8 @@
 <h1 align="center">About Me</h1>
-<h3 align="left">A recent university graduate with an immense admiration for technology and physics.</h3>
+<h3 align="left">Currently pursuing a Master's Degree in Nuclear Engineering</h3>
 
 <!-- - 🌱 I’m currently learning -->
-- 📫 How to reach me **alimdjanov.ss@gmail.com**
+📫 How to reach me **alimdjanov.ss@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
