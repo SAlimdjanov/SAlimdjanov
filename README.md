@@ -1,7 +1,10 @@
 <h1 align="center">About Me</h1>
-<h3 align="left">Currently pursuing a Master's Degree in Nuclear Engineering</h3>
+<h3 align="left">Currently pursuing a Master's Degree in Nuclear Engineering and AI</h3>
 
-<!-- - 🌱 I’m currently learning -->
+🌱 I’m currently learning:
+- Deep Learning Algorithms
+- Nuclear Reactor Physics
+
 📫 How to reach me **alimdjanov.ss@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
