@@ -1,9 +1,9 @@
 <h1 align="center">About Me</h1>
-<h3 align="left">Currently pursuing a Master's Degree in Nuclear Engineering and AI</h3>
+<h3 align="left">Currently pursuing a Master of Applied Science in Engineering Physics. My research focus is the application and integration of AI/ML into the Nuclear Engineering industray, with special emphasis on Thermal-Hydraulic Safety Analysis</h3>
 
 🌱 I’m currently learning:
-- Deep Learning Algorithms
-- Nuclear Reactor Physics
+- Nuclear reactor fuel management
+- Data pre-processing techniques and LSTMs
 
 📫 How to reach me **alimdjanov.ss@gmail.com**
 
