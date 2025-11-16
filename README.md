@@ -1,5 +1,5 @@
 <h1 align="center">About Me</h1>
-<h3 align="left">Currently pursuing a Master of Applied Science in Engineering Physics. My research focus is the application and integration of AI/ML into the Nuclear Engineering industray, with special emphasis on Thermal-Hydraulic Safety Analysis</h3>
+<h3 align="left">Currently pursuing a Master of Applied Science in Engineering Physics. My research focus is the application and integration of AI/ML into the Nuclear Engineering industry, with special emphasis on Thermal-Hydraulic Safety Analysis</h3>
 
 🌱 I’m currently learning:
 - Nuclear reactor fuel management
